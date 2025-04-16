@@ -159,6 +159,30 @@
       "title": "CEPI",
       "description": "Test IndexedDB3",
       "date": "2025-04-09T14:00:51.553Z"
+    },
+    {
+      "id": "d1d8",
+      "image": "/image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI",
+      "description": "Test2 IndexedDB",
+      "date": "2025-04-09T13:51:55.563Z"
+    },
+    {
+      "id": "4783",
+      "image": "/image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI",
+      "description": "Test IndexedDB3",
+      "date": "2025-04-09T14:00:51.553Z"
+    },
+    {
+      "id": "531f",
+      "image": "/image/Peony-Radiation.jpg",
+      "auteur": "Ouma",
+      "title": "CEPI",
+      "description": "ZzASCD",
+      "date": "2025-04-13T02:32:34.300Z"
     }
   ],
   "commentaires": [
@@ -290,6 +314,12 @@
     },
     {
       "id": "f7af",
+      "idPublication": "1",
+      "datePublication": "2025-04-10T03:09:31.215Z",
+      "contenu": "cool"
+    },
+    {
+      "id": "ba49",
       "idPublication": "1",
       "datePublication": "2025-04-10T03:09:31.215Z",
       "contenu": "cool"

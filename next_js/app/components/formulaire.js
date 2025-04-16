@@ -29,9 +29,7 @@ export default  function Formulaire({ handleSubmit }) {
                             <button type="submit" id="submit" className="btn btn-primary">Publier</button>
                         </div>
                     </div>
-                    <div id="dialog-confirm" title="Confirmer l'envoi ?">
-                        <p>Voulez-vous vraiment envoyer cette publication ?</p>
-                    </div>
+                    
 
                 </form>
             </div>

@@ -1,4 +1,4 @@
-
+'use client'
 import { useState, useEffect } from 'react';
 import Localbase from 'localbase';
 import Formulaire from "./formulaire";
